@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <parameter name="browserName" value="firefox"></parameter>
+    <classes>
+      <class name="Testclass.TC04_VerifyAllProductAddToCartFunctionality"/>
+      <class name="Testclass.TC03VerifyAddToCartproduct"/>
+      <class name="Testclass.TC01_VerifyLoginFunctionally"/>
+      <class name="Testclass.TC02_VerifyLogoutFunctionality"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

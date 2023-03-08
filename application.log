@@ -1,0 +1,36 @@
+2023-03-06 22:55:22,848  INFO [main] SauceDemo:43 - open browser
+2023-03-06 22:55:23,015  INFO [main] SauceDemo:46 - browser is maximized
+2023-03-06 22:55:23,736  INFO [main] SauceDemo:49 - url opened
+2023-03-06 22:55:24,438  INFO [main] SauceDemo:56 - enter username
+2023-03-06 22:55:24,595  INFO [main] SauceDemo:58 - enter password
+2023-03-06 22:55:25,013  INFO [main] SauceDemo:60 - click on loginbutn
+2023-03-06 22:55:25,014  INFO [main] SauceDemo:61 - went to home page
+2023-03-06 22:55:26,572  INFO [main] SauceDemo:72 - browser is closed
+2023-03-06 22:55:26,573  INFO [main] SauceDemo:73 - end of the program
+2023-03-06 22:55:28,006  INFO [main] SauceDemo:43 - open browser
+2023-03-06 22:55:28,181  INFO [main] SauceDemo:46 - browser is maximized
+2023-03-06 22:55:28,842  INFO [main] SauceDemo:49 - url opened
+2023-03-06 22:55:29,300  INFO [main] SauceDemo:56 - enter username
+2023-03-06 22:55:29,430  INFO [main] SauceDemo:58 - enter password
+2023-03-06 22:55:29,854  INFO [main] SauceDemo:60 - click on loginbutn
+2023-03-06 22:55:29,856  INFO [main] SauceDemo:61 - went to home page
+2023-03-06 22:55:30,718  INFO [main] SauceDemo:72 - browser is closed
+2023-03-06 22:55:30,719  INFO [main] SauceDemo:73 - end of the program
+2023-03-06 22:55:32,013  INFO [main] SauceDemo:43 - open browser
+2023-03-06 22:55:32,187  INFO [main] SauceDemo:46 - browser is maximized
+2023-03-06 22:55:33,161  INFO [main] SauceDemo:49 - url opened
+2023-03-06 22:55:33,571  INFO [main] SauceDemo:56 - enter username
+2023-03-06 22:55:33,702  INFO [main] SauceDemo:58 - enter password
+2023-03-06 22:55:34,100  INFO [main] SauceDemo:60 - click on loginbutn
+2023-03-06 22:55:34,101  INFO [main] SauceDemo:61 - went to home page
+2023-03-06 22:55:34,816  INFO [main] SauceDemo:72 - browser is closed
+2023-03-06 22:55:34,816  INFO [main] SauceDemo:73 - end of the program
+2023-03-06 22:55:36,066  INFO [main] SauceDemo:43 - open browser
+2023-03-06 22:55:36,218  INFO [main] SauceDemo:46 - browser is maximized
+2023-03-06 22:55:36,957  INFO [main] SauceDemo:49 - url opened
+2023-03-06 22:55:37,389  INFO [main] SauceDemo:56 - enter username
+2023-03-06 22:55:37,517  INFO [main] SauceDemo:58 - enter password
+2023-03-06 22:55:37,846  INFO [main] SauceDemo:60 - click on loginbutn
+2023-03-06 22:55:37,846  INFO [main] SauceDemo:61 - went to home page
+2023-03-06 22:55:38,943  INFO [main] SauceDemo:72 - browser is closed
+2023-03-06 22:55:38,944  INFO [main] SauceDemo:73 - end of the program
